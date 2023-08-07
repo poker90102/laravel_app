@@ -22,7 +22,7 @@ You can install Ansible by following the [official installation documentation](h
 
 ### Clone the repository
 ```shell
-git clone git@github.com:Rishats/ansible_laravel.git
+git clone git@github.com:poker90102/laravel_app.git
 ```
 
 ### Configure your inventory files
@@ -34,7 +34,7 @@ Host variables control some of the aspects how the machine is configured. Store 
 ```yaml
 # Let's Encrypt settings
 enable_ssl: false
-letsencrypt_email: rihasultanov@gmail.com
+letsencrypt_email: poker90102@gmail.com
 
 # Extra PHP packages
 php_extra_packages:
